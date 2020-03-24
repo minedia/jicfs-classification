@@ -25,8 +25,19 @@ See [here](https://www.dsri.jp/database_service/jicfsifdb/manufacturer.html) for
 
 - Full data
   - https://www.dsri.jp/database_service/jicfsifdb/data/1101jicfs_bunrui-ichiran.pdf
+  - Updated on: 2010/01/14
 - Incremental data
   - https://www.dsri.jp/database_service/jicfsifdb/data/24otc.pdf
+  - Updated on: 2014/03/20
+
+
+Differences between the original data and `lib/jicfs_classification.tsv` are:
+
+- Converted to UTF-8.
+- Corrected notation distortions.
+- Converted half-width kana to full-width kana.
+- Removed the spaces before and after the parenthesis.
+- Applied incremental [data](https://www.dsri.jp/database_service/jicfsifdb/data/24otc.pdf).
 
 
 ## Build
