@@ -31,7 +31,7 @@ See [here](https://www.dsri.jp/database_service/jicfsifdb/manufacturer.html) for
   - Updated on: 2014/03/20
 
 
-Differences between the original data and `lib/jicfs_classification.tsv` are:
+Differences between [the original data](https://www.dsri.jp/database_service/jicfsifdb/data/1101jicfs_bunrui-ichiran.pdf) and `lib/jicfs_classification.tsv` are:
 
 - Converted to UTF-8.
 - Corrected notation distortions.
