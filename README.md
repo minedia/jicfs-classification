@@ -16,9 +16,9 @@ See [here](https://www.dsri.jp/database_service/jicfsifdb/manufacturer.html) for
   - https://minedia.github.io/jicfs-classification/api/v1/jicfs_classification.sjis.csv
 
 
-## Sample output
+## Sample data 
 
-![image](https://user-images.githubusercontent.com/98103/77389545-dd36b380-6dd6-11ea-84f9-fb9cb445e429.png)
+![image](https://user-images.githubusercontent.com/98103/77397351-c39e6780-6de8-11ea-8cbf-ae182cb55046.png)
 
 
 ## Datasource
