@@ -3,9 +3,15 @@
 ## Public URL to use the data
 
 - JSON
+  - https://minedia.github.io/jicfs-classification/api/v1/jicfs_classification.json
+- JSON (minified)
+  - https://minedia.github.io/jicfs-classification/api/v1/jicfs_classification.min.json
 - tsv
+  - https://minedia.github.io/jicfs-classification/api/v1/jicfs_classification.tsv
 - csv
+  - https://minedia.github.io/jicfs-classification/api/v1/jicfs_classification.csv
 - csv (sjis)
+  - https://minedia.github.io/jicfs-classification/api/v1/jicfs_classification.sjis.csv
 
 ## Datasource
 
