@@ -1,4 +1,4 @@
-# JICFS Classification
+# JICFS分類 (JICFS Classification)
 
 See [here](https://www.dsri.jp/database_service/jicfsifdb/manufacturer.html) for more detail about JICFS.
 
